@@ -16,6 +16,10 @@ This repository contains Python code for detecting fake news using various machi
 - scikit-learn: Machine learning models and tools
 - WordCloud: Generating word clouds for visualization
 
+### Dataset Source
+
+The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/hassanamin/textdb3).
+
 ### Features
 
 - Data Loading & Preprocessing
